@@ -18,7 +18,7 @@ public class FirstEjb implements FirstEjbRemote, FirstEjbLocal {
 	@Override
 	public String sayLocal(String s) {
 		// TODO Auto-generated method stub
-		return s+"...local...........test";
+		return s+"...local...........testabc";
 	}
 
 	@Override
